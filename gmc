@@ -1,0 +1,9 @@
+algorithme  Dot_product
+variable  a,b,c,x,y,z,v1,v2 INETGER
+   
+debut
+    Dot_product v1= a * x + b * y + c * z
+    ecrire(Dot_product1) 
+    Dot_product v2= a * x + b * y + c * z
+    ecrire(Dot_product2)
+fin
